@@ -109,10 +109,28 @@ footer{
 }
 
 .body{
-    background-color: ;
+    background-color: hsl(0, 0%, 13%);
+    width: 80%;
 }
 
 #top-arr-nav{
     width: 90px;
-    
+    padding: 20px 0px 20px 30px;
+}
+
+.profile-img>img{
+    width:30px
+}
+.profile-img>p{
+    font-size: 10px;
+    color: white;
+}
+.profile-img{
+    position: absolute;
+    right: 40px;
+    top: 20px
+}
+
+#lkd-sngs-img{
+    width: 50px;
 }
